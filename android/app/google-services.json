@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "816848500130",
+    "project_id": "edenfarmtest",
+    "storage_bucket": "edenfarmtest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816848500130:android:5ebab73c1da934afa3eefb",
+        "android_client_info": {
+          "package_name": "com.humam.edenfarm_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816848500130-s21adscgddposkth644isl1989gmu9ks.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.humam.edenfarm_test",
+            "certificate_hash": "792d20cb6291dc2e2c737aae6ed76be9c48f78ba"
+          }
+        },
+        {
+          "client_id": "816848500130-i6k9650oti22sjri5nrlhev1m46tesie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDh95ErmAvpo4UK2kjKJLI3T8QDNxq4eI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816848500130-i6k9650oti22sjri5nrlhev1m46tesie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
